@@ -3,7 +3,7 @@
 Goal: The project aims to predict the rent prices in Perth using a machine learning algorithm (linear regression model) trained with historic rental price data.
 
 Description of the Dataset:
-The dataset studied would be the Perth House prices (from Kaggle) which originally has 33656 rows and 19 columns. The first few rows of the dataset is given in the image below. 
+The dataset studied would be the Perth House prices (from Kaggle) which originally has 33656 rows and 19 columns. 
 
 Hypothesis:
 "There exists a set of varied factors that significantly impact the prices of houses in Perth. We hypothesize that features like location, size, number of bedrooms, amenities, and economic indicators play a crucial role in determining the price of houses in the city. Through a linear regression predictive model, we aim to develop a reliable algorithm that accurately forecasts house prices based on the discovered key variables."
