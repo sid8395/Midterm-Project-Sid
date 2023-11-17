@@ -1,4 +1,4 @@
-# Midterm-Project-Sid
+ PERTH LIVING - PREDICTIVE MODELING USING MACHINE LEARNING
 
 Goal: The project aims to predict the rent prices in Perth using a machine learning algorithm (linear regression model) trained with historic rental price data.
 
