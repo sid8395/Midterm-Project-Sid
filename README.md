@@ -6,8 +6,7 @@ Description of the Dataset:
 The dataset studied would be the Perth House prices (from Kaggle) which originally has 33656 rows and 19 columns. 
  Some of the columns are mentioned below 
  ['ADDRESS', 'SUBURB', 'NEAREST_STN', 'DATE_SOLD', 'NEAREST_SCH'], dtype='object')
-(['PRICE', 'BEDROOMS', 'BATHROOMS', 'GARAGE', 'LAND_AREA', 'FLOOR_AREA 'BUILD_YEAR', 'CBD_DIST', 'NEAREST_STN_DIST', 'POSTCODE', 'LATITUDE', 'LONGITUDE', 'NEAREST_SCH_DIST', 'NEAREST_SCH_RANK'],
-      dtype='object')
+
 
 
 Hypothesis:
